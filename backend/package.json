@@ -1,0 +1,12 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "a backend for resqbite",
+  "license": "ISC",
+  "author": "sumit",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev":"node src/index.js"
+  }
+}
